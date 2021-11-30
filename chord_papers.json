@@ -1,17 +1,17 @@
 [
     {
         "name": "S01",
-        "size": 10000,
+        "size": 5000,
         "relationships": ["S20", "S29"]
     },
     {
         "name": "S03",
-        "size": 10000,
+        "size": 5000,
         "relationships": ["S13", "S15"]
     },
     {
         "name": "S10",
-        "size": 10000,
+        "size": 5000,
         "relationships": ["S26","S24"]
     },
     {
