@@ -1,0 +1,32 @@
+[
+    {
+        "name": "S01",
+        "size": 10000,
+        "relationships": ["S20", "S29"]
+    },
+    {
+        "name": "S03",
+        "size": 10000,
+        "relationships": ["S13", "S15"]
+    },
+    {
+        "name": "S10",
+        "size": 10000,
+        "relationships": ["S26","S24"]
+    },
+    {
+        "name": "S20",
+        "size": 5000,
+        "relationships": ["S29"]
+    },
+    {
+        "name": "S22",
+        "size": 5000,
+        "relationships": ["S28"]
+    },
+    {
+        "name": "S24",
+        "size": 5000,
+        "relationships": ["S26"]
+    }
+]
